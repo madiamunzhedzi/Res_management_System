@@ -29,7 +29,7 @@ A desktop application built in Java (Swing) for managing a student residence. St
 2. Move into the project folder and run it with Maven:
    ```bash
    cd ResidenceManagement
-   mvn compile exec:java -Dexec.mainClass="com.res.App"
+mvn compile exec:java -Dexec.mainClass="com.res.App"
    ```
    *(Or open the project in your IDE and run the `App` class.)*
 
