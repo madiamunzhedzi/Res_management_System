@@ -24,7 +24,7 @@ A desktop application built in Java (Swing) for managing a student residence. St
 ### Running the project
 1. Clone the repository:
    ```bash
-   git clone https://github.com/madiamunzhedzi/ResidenceManagementSystem.git
+   git clone https://github.com/madiamunzhedzi/Res_management_System.git
    ```
 2. Move into the project folder and run it with Maven:
    ```bash
